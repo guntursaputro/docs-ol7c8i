@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-tqh63c.nuansa138win.cfd/sitemap.xml
